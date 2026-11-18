@@ -1,0 +1,19 @@
+# Magoshi Events - Robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://magoshievents.com/sitemap.xml
+
+# Disallow admin areas (if any in future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all images and assets
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+# Crawl-delay (optional)
+Crawl-delay: 5

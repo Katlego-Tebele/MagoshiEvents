@@ -1,0 +1,95 @@
+MAGOSHI EVENTS - IMAGE UPLOAD INSTRUCTIONS
+==========================================
+
+Please upload your actual event photographs to replace the placeholders below.
+All images should be high-quality, professional photographs from your events.
+
+IMPORTANT: Do NOT use TikTok or Instagram screenshots with UI elements, comments, or social media interfaces.
+Use the actual event photographs only.
+
+REQUIRED IMAGES:
+================
+
+1. LOGO (assets/images/logo/)
+   - logo.png - Your Magoshi Events logo (transparent background recommended)
+   - Recommended size: 500x500px or higher resolution
+
+2. HERO SECTION (assets/images/)
+   - hero.jpg - A stunning full-screen photograph of a beautifully decorated wedding/event
+   - Recommended size: 1920x1080px or higher
+   - Should showcase luxury décor, elegant tables, or a professionally styled venue
+
+3. ABOUT SECTION (assets/images/)
+   - about.jpg - A beautiful event photograph showing your team's work
+   - Recommended size: 800x1000px
+   - Should highlight elegant décor or floral arrangements
+
+4. BOOKING SECTION (assets/images/)
+   - booking-bg.jpg - A luxurious event photograph for the booking form background
+   - Recommended size: 1920x1080px or higher
+   - Can be similar to hero image but different
+
+5. VIDEO THUMBNAIL (assets/images/)
+   - video-thumbnail.jpg - A beautiful still image to show before video plays
+   - Recommended size: 1280x720px
+   - Should represent the content of your video
+
+6. SERVICE IMAGES (assets/images/services/)
+   Upload 6 professional photographs representing each service:
+   
+   - service1.jpg - Luxury Event Décor & Styling
+   - service2.jpg - Wedding Planning & Event Coordination
+   - service3.jpg - Floral Design
+   - service4.jpg - Marquee & Tent Hire
+   - service5.jpg - Furniture & Event Equipment Hire
+   - service6.jpg - Special Occasions & Corporate Events
+   
+   Recommended size: 800x600px each
+
+7. GALLERY IMAGES (assets/images/gallery/)
+   Upload EXACTLY 10 professional event photographs:
+   
+   - gallery1.jpg - Luxury Wedding Décor
+   - gallery2.jpg - Elegant Wedding Reception
+   - gallery3.jpg - Outdoor Wedding Ceremony
+   - gallery4.jpg - Floral Table Centrepieces
+   - gallery5.jpg - Marquee & Tent Setup
+   - gallery6.jpg - Traditional Wedding Celebration
+   - gallery7.jpg - Luxury Table Styling
+   - gallery8.jpg - Corporate Event Décor
+   - gallery9.jpg - Birthday & Special Celebrations
+   - gallery10.jpg - Beautiful Floral Arrangements
+   
+   Recommended size: 1000x750px each
+   These should be your best work showcasing different event types
+
+8. VIDEO (assets/videos/)
+   - magoshi-events.mp4 - One professional video showcasing your events
+   - Recommended format: MP4 (H.264 codec)
+   - Recommended duration: 30 seconds to 2 minutes
+   - Should show event setup, décor reveals, or beautiful event moments
+
+IMAGE QUALITY GUIDELINES:
+=========================
+- Use high-resolution images (at least 1000px on the longest side for main images)
+- Images should be properly exposed and in focus
+- Show your actual completed work
+- Compress images to balance quality and loading speed (use tools like TinyPNG)
+- Use JPEG format for photographs
+- Use PNG format for logo (supports transparency)
+
+ALTERNATIVE TEMPORARY SOLUTIONS:
+================================
+If you don't have all images ready, you can:
+1. Use your best available photographs and replace others later
+2. Use the same image multiple times temporarily (e.g., use one great photo for multiple gallery slots)
+3. The website will still function; just replace images as they become available
+
+FILE NAMING:
+============
+- Use EXACT filenames as specified above
+- Use lowercase extensions (.jpg, .png, .mp4)
+- Do not add spaces or special characters to filenames
+
+After uploading all images, the website will display them automatically.
+No code changes are required - just replace the image files.

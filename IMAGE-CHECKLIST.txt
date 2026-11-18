@@ -1,0 +1,237 @@
+╔════════════════════════════════════════════════════════════════╗
+║                  MAGOSHI EVENTS - IMAGE CHECKLIST              ║
+║                  Where Every Detail Is Divine                  ║
+╚════════════════════════════════════════════════════════════════╝
+
+Use this checklist to track which images you've uploaded.
+Mark each item with an X when completed: [X]
+
+═══════════════════════════════════════════════════════════════════
+
+📁 LOGO (1 image)
+═══════════════════════════════════════════════════════════════════
+Location: assets/images/logo/
+
+[ ] logo.png
+    - Your Magoshi Events logo
+    - PNG format with transparent background
+    - Size: 500x500px or higher
+    - Used in: Navigation bar, Footer
+
+
+📁 MAIN IMAGES (4 images)
+═══════════════════════════════════════════════════════════════════
+Location: assets/images/
+
+[ ] hero.jpg
+    - Stunning full-screen background image
+    - Your most impressive decorated venue
+    - Size: 1920x1080px or higher
+    - Used in: Hero section (first thing visitors see)
+
+[ ] about.jpg
+    - Beautiful event or elegant décor photo
+    - Showcases your attention to detail
+    - Size: 800x1000px
+    - Used in: About Us section
+
+[ ] booking-bg.jpg
+    - Luxurious event venue background
+    - Can be similar to hero but different
+    - Size: 1920x1080px or higher
+    - Used in: Booking form section background
+
+[ ] video-thumbnail.jpg
+    - Still image representing your video
+    - Professional event photograph
+    - Size: 1280x720px
+    - Used in: Video section (before video plays)
+
+
+📁 SERVICE IMAGES (6 images)
+═══════════════════════════════════════════════════════════════════
+Location: assets/images/services/
+
+[ ] service1.jpg - Luxury Event Décor & Styling
+    Sophisticated table settings, draping, coordinated colours
+
+[ ] service2.jpg - Wedding Planning & Event Coordination
+    Wedding ceremony or beautifully coordinated event
+
+[ ] service3.jpg - Floral Design
+    Beautiful flower arrangements, centrepieces, bouquets
+
+[ ] service4.jpg - Marquee & Tent Hire
+    Elegant marquee or tent setup at an event
+
+[ ] service5.jpg - Furniture & Event Equipment Hire
+    Stylish chairs, tables, event furniture
+
+[ ] service6.jpg - Special Occasions & Corporate Events
+    Birthday party, corporate event, or special celebration
+
+    Size for all: 800x600px
+    Format: JPG
+    Quality: High resolution, professional
+
+
+📁 GALLERY IMAGES (10 images) - MUST BE EXACTLY 10
+═══════════════════════════════════════════════════════════════════
+Location: assets/images/gallery/
+
+These are your PORTFOLIO - choose your 10 BEST photographs!
+
+[ ] gallery1.jpg - Luxury Wedding Décor
+    Elegant wedding decoration showcasing your best work
+
+[ ] gallery2.jpg - Elegant Wedding Reception
+    Beautiful reception setup with tables and décor
+
+[ ] gallery3.jpg - Outdoor Wedding Ceremony
+    Ceremony setup with beautiful arrangements
+
+[ ] gallery4.jpg - Floral Table Centrepieces
+    Close-up of your stunning table flower arrangements
+
+[ ] gallery5.jpg - Marquee & Tent Setup
+    Impressive tent or marquee with décor
+
+[ ] gallery6.jpg - Traditional Wedding Celebration
+    Traditional ceremony with cultural elements and décor
+
+[ ] gallery7.jpg - Luxury Table Styling
+    Detailed table setting with elegant styling
+
+[ ] gallery8.jpg - Corporate Event Décor
+    Professional corporate event setup
+
+[ ] gallery9.jpg - Birthday & Special Celebrations
+    Birthday party or special occasion styling
+
+[ ] gallery10.jpg - Beautiful Floral Arrangements
+    Your most impressive floral design work
+
+    Size for all: 1000x750px
+    Format: JPG
+    Quality: Your absolute best photography
+    
+
+📁 VIDEO (1 video)
+═══════════════════════════════════════════════════════════════════
+Location: assets/videos/
+
+[ ] magoshi-events.mp4
+    - Professional event video (setup, décor reveals, etc.)
+    - Format: MP4 (H.264 codec)
+    - Duration: 30 seconds to 2 minutes recommended
+    - Size: Keep under 50MB for fast loading
+    - Quality: HD (1280x720) or Full HD (1920x1080)
+    - Used in: Video showcase section
+
+
+═══════════════════════════════════════════════════════════════════
+                           QUICK STATS
+═══════════════════════════════════════════════════════════════════
+
+Total Images Needed:  21 (1 logo + 4 main + 6 services + 10 gallery)
+Total Videos Needed:  1
+Total Files:          22
+
+Images Uploaded:      [ ] / 21
+Videos Uploaded:      [ ] / 1
+Project Complete:     [ ] YES / [ ] NO
+
+
+═══════════════════════════════════════════════════════════════════
+                      IMAGE QUALITY GUIDELINES
+═══════════════════════════════════════════════════════════════════
+
+✅ DO:
+   - Use YOUR actual completed event photographs
+   - Use high-resolution images (at least 1000px width)
+   - Compress images after upload (use TinyPNG.com)
+   - Use properly exposed, in-focus photographs
+   - Show your absolute best work
+
+❌ DON'T:
+   - Use Instagram screenshots with UI elements
+   - Use TikTok screenshots with comments/buttons
+   - Use stock photos or AI-generated images
+   - Use blurry or low-quality images
+   - Use images with watermarks from other companies
+
+
+═══════════════════════════════════════════════════════════════════
+                     QUICK FILE NAMING CHECK
+═══════════════════════════════════════════════════════════════════
+
+Are your files named EXACTLY as shown above?
+  - Correct: gallery1.jpg ✅
+  - Wrong: Gallery1.JPG ❌
+  - Wrong: gallery 1.jpg ❌
+  - Wrong: gallery-1.jpg ❌
+
+Use lowercase, no spaces, exact names!
+
+
+═══════════════════════════════════════════════════════════════════
+                          PRIORITY ORDER
+═══════════════════════════════════════════════════════════════════
+
+If you can't get all images immediately, upload in this order:
+
+Priority 1 (CRITICAL - Upload First):
+  1. logo.png
+  2. hero.jpg
+  3. At least 5 gallery images (gallery1.jpg to gallery5.jpg)
+
+Priority 2 (Important - Upload Second):
+  4. All remaining gallery images (gallery6.jpg to gallery10.jpg)
+  5. about.jpg
+
+Priority 3 (Good to Have - Upload Third):
+  6. All service images (service1.jpg to service6.jpg)
+  7. booking-bg.jpg
+
+Priority 4 (Optional - Upload When Ready):
+  8. video-thumbnail.jpg
+  9. magoshi-events.mp4
+
+With just Priority 1 files, your website will already look professional!
+
+
+═══════════════════════════════════════════════════════════════════
+                        AFTER UPLOADING
+═══════════════════════════════════════════════════════════════════
+
+Once all files are uploaded:
+
+[ ] Open index.html in your browser
+[ ] Check that logo appears in navigation
+[ ] Scroll through each section
+[ ] Click on gallery images (lightbox should open)
+[ ] Test video (if uploaded)
+[ ] Test on mobile phone
+[ ] Test WhatsApp buttons
+[ ] Review all sections for completeness
+
+All working? You're ready to deploy! 🚀
+
+
+═══════════════════════════════════════════════════════════════════
+                         NEED HELP?
+═══════════════════════════════════════════════════════════════════
+
+Check these files:
+  📘 QUICK-START-GUIDE.md - 5-minute setup instructions
+  📗 README.md - Complete documentation
+  📄 IMAGE-UPLOAD-INSTRUCTIONS.txt - Detailed image specs
+
+
+═══════════════════════════════════════════════════════════════════
+
+              MAGOSHI EVENTS - Where Every Detail Is Divine
+
+        Your beautiful website is waiting for your beautiful work!
+
+═══════════════════════════════════════════════════════════════════

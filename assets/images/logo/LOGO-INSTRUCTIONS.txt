@@ -1,0 +1,27 @@
+MAGOSHI EVENTS - LOGO UPLOAD
+============================
+
+Please upload your Magoshi Events logo here as:
+
+Filename: logo.png
+
+Specifications:
+- Format: PNG (supports transparent background)
+- Recommended size: 500x500px or higher resolution
+- Transparent background preferred
+- Should be your official business logo
+- High quality, professional design
+
+The logo will appear in:
+1. Navigation bar (top left)
+2. Footer section
+
+After uploading, the logo will automatically display on the website.
+No code changes required.
+
+If you don't have a logo yet:
+- You can use a text-based logo temporarily
+- Commission a professional logo designer
+- Use the business name "Magoshi Events" styled beautifully
+
+The logo represents your brand identity, so ensure it's professional and matches your luxury event styling business.
